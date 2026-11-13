@@ -1,0 +1,8 @@
+{
+  "name": "Until We Talk Again",
+  "description": "Personal communication and meeting tracker with daily status calendars, talk duration logging, date-range totals, and streak analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
